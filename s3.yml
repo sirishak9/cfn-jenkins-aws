@@ -5,5 +5,5 @@ Resources:
   SampleBucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: sample-bucket-oct-14
+      BucketName: sample-sahil
       AccessControl: PublicRead
